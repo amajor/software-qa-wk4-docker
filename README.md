@@ -1,5 +1,7 @@
 # Week 4 Lab
 
+See a screenshots of it all working together in the [summary](./docs/show_its_working.md).
+
 ## Build/Rebuild the Docker Container
 
 ```shell
